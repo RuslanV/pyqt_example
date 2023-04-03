@@ -9,7 +9,7 @@
 - различные паттерны (MVC, Command, Observer, Adapter и др.)
 - и т.п.
 
-![Screenshot](https://github.com/RuslanV/pyqt_example/app_screenshot.png)
+![Image alt](https://github.com/RuslanV/pyqt_example/app_screenshot.png)
 
 ### Для работы приложения необходима БД, которую можно запустить в docker.
 Сборка контейнера:
