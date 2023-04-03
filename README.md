@@ -9,7 +9,11 @@
 - различные паттерны (MVC, Command, Observer, Adapter и др.)
 - и т.п.
 
-![Image alt](https://github.com/RuslanV/pyqt_example/blob/main/app_screenshot.png)
+### Основное окно - список оборудования
+![Image alt](https://github.com/RuslanV/pyqt_example/blob/main/screenshots/app_screenshot_1.png)
+
+### Дочернее окно - редактирование/изменение/добавление оборудования
+![Image alt](https://github.com/RuslanV/pyqt_example/blob/main/screenshots/app_screenshot_2.png)
 
 ### Для работы приложения необходима БД, которую можно запустить в docker.
 Сборка контейнера:
